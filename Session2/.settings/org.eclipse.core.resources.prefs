@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/bkap/web/controller/HomeController.java=UTF-8
+encoding//src/main/java/com/bkap/web/repository/CategoryRepository.java=UTF-8
+encoding//src/main/java/com/bkap/web/repository/GenericRepository.java=UTF-8
+encoding//src/main/java/com/bkap/web/util/SqlConnection.java=UTF-8
